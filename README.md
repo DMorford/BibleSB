@@ -1,2 +1,2 @@
 # BibleSB
-A dynamic application designed to enrich Bible study sessions through interactive tools and resources. This repository hosts the core code, documentation, and assets to create a seamless and engaging study experience.  Feel free to customize them to fit your vision!
+Bible Study Buddy is a comprehensive application aimed at enhancing the experience of studying the Bible. It offers interactive tools, resources, and features designed to facilitate individual and group study sessions. The app includes customizable study plans, note-taking capabilities, and collaborative features that help users dive deeper into their study, fostering a rich and engaging learning environment.
